@@ -1,0 +1,9 @@
+1.what is cloud?
+->Delivery of computer resources over internet with pay as you go pricing instead of buying any.
+so you can access techonlogy services as starage, power, database as you need.
+
+2.Benefits of cloud computuing.
+->less cost(saves money)
+security
+pay as you go pricing
+fast performance
