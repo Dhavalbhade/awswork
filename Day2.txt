@@ -1,0 +1,31 @@
+S3:-
+
+S3 service- it is the storage engine.Storage engine means ,I can store any type of the data there as an object .
+This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, 
+such as websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics.
+
+
+How Amazon s3 works?
+
+There is the concept under s3,which is known as the BUCKET
+BUCKET:An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services (AWS) Simple Storage Service (S3), 
+an object storage offering.Amazon S3 buckets, which are similar to file folders, store objects, which consist of data and its descriptive metadata. 
+Bucket is like a folder .we make folder under that we store file into that .same thing we can make folder inside the bucket .
+It is on you upto what level you have to go.Here we can also host our website.
+
+How to create Bucket?
+
+Go to services>type S3(scalable storage in the cloud)
+create bucket>Give any name to bucket suppose I give demo>Remaining things keep as it is>click on create bucket
+Now give the name as vita-demo-20 > click on create bucket.Now our bucket is ready
+Now click on that vita-demo-20
+
+In that we have different options :
+1] create folder
+2)Upload
+Now let upload some file
+click on the upload
+
+How to make a folder?
+
+click on create folder> give the folder name as demo >save
